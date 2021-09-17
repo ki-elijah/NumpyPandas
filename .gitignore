@@ -4,7 +4,7 @@
 /algorithmic-trading-python-master
 /Python-for-Finance-Repo-master
 
-.secrets.py
-.aapl.csv
-.sp_500_stocks.csv
-.app.py
+secrets.py
+aapl.csv
+sp_500_stocks.csv
+app.py
