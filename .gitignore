@@ -1,0 +1,10 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/algorithmic-trading-python-master
+/Python-for-Finance-Repo-master
+
+.secrets.py
+.aapl.csv
+.sp_500_stocks.csv
+.app.py
